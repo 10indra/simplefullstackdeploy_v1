@@ -183,7 +183,7 @@ Recommended additions for real production:
 ```bash
 git clone <repo>
 cd <repo>
-sudo bash deploy_full_stackv3.sh
+sudo bash deploy_full_stackv1.sh
 ```
 
 Then access:
