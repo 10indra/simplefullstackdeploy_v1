@@ -5,7 +5,7 @@ IFS=$'\n\t'
 readonly SCRIPT_NAME="$(basename "$0")"
 readonly SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
-#!/usr/bin/env bash
+##!/usr/bin/env bash
 #set -Eeuo pipefail
 
 ########################################
@@ -351,4 +351,5 @@ done
 g "======================================"
 g "ALL 3 APPS SUCCESSFULLY DEPLOYED"
 g "======================================"
+
 
