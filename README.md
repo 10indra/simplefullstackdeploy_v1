@@ -26,7 +26,7 @@ This script automatically builds a full stack environment consisting of:
 All deployed with:
 
 ```bash
-sudo bash simplefullstackdeploy_v1.sh
+sudo bash deploy_full_stackv1.sh
 ```
 
 ---
