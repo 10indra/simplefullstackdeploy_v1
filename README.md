@@ -26,7 +26,10 @@ This script automatically builds a full stack environment consisting of:
 All deployed with:
 
 ```bash
-sudo bash deploy_full_stackv1.sh
+git clone https://github.com/10indra/simplefullstackdeploy_v1.git
+cd simplefullstackdeploy_v1/
+chmod +x deploy_full_stackv1.sh
+sudo ./deploy_full_stackv1.sh
 ```
 
 ---
